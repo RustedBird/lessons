@@ -1,5 +1,7 @@
 <?php
 
+echo 'Lesson 2';
+
 $array = [1, 2, 'name' => 'Philipp', 4, 5, 6];
 
 for ($i = 0; $i < count($array); $i++) {

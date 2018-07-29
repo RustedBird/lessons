@@ -1,5 +1,7 @@
 <?php
 
+echo 'Lesson 1';
+
 /*const MY_CONST = 'Some Value';
 define('FOO', 'что-то');
 
